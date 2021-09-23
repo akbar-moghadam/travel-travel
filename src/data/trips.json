@@ -1,0 +1,26 @@
+[
+    {
+        "image":"../assets/images/eiffel.jpg",
+        "alt":"Eiffel",
+        "name":"Eiffel",
+        "button":"View Destination"
+    },
+    {
+        "image":"../assets/images/london.jpg",
+        "alt":"London",
+        "name":"London",
+        "button":"View Destination"
+    },
+    {
+        "image":"../assets/images/maldives.jpg",
+        "alt":"Maldives",
+        "name":"Maldives",
+        "button":"View Destination"
+    },
+    {
+        "image":"../assets/images/polynesia.jpg",
+        "alt":"Polynesia",
+        "name":"Polynesia",
+        "button":"View Destination"
+    }
+]
